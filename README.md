@@ -2,14 +2,6 @@
 
 This repository contains the code for a web application that converts temperature from degrees to Fahrenheit.
 
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 ## 📝 **Description**
 
 The web application is built using **HTML**, **CSS**, and **JavaScript**. It provides a user-friendly interface where users can input a temperature in degrees and the application will convert it to Fahrenheit.
